@@ -2,7 +2,6 @@
 <html>
   <head>
     <title>My Online Store</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
   </head>
   <body>
     <header>
@@ -26,8 +25,7 @@
         <ul>
           <li>
             <h2>Product 1</h2>
-            <img src="![image](https://user-images.githubusercontent.com/124816798/218100800-63f9b832-e208-4925-a190-8eb0dcd14251.png)
-" alt="Product 1">
+            <img src="product1.jpg" alt="Product 1">
             <p>Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor justo vel velit bibendum, in rutrum justo condimentum.</p>
             <p>Price: $19.99</p>
             <button>Add to Cart</button>
@@ -60,4 +58,7 @@
           <label for="email">Email:</label>
           <input type="email" id="email" name="email" required>
 
-         
+          <label for="message">Message:</label>
+          <textarea id="message" name="message" required></textarea>
+
+          <input type="submit
