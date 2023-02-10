@@ -26,9 +26,10 @@
         <ul>
           <li>
             <h2>Product 1</h2>
-            <img src="[product1.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.applesfromny.com%2Fvarieties%2Fsnapdragon%2F&psig=AOvVaw0FANUHhaTlLZbV7mgIIR9_&ust=1676120898557000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjdicWBi_0CFQAAAAAdAAAAABAN)" alt="Product 1">
+            <img src="![image](https://user-images.githubusercontent.com/124816798/218100800-63f9b832-e208-4925-a190-8eb0dcd14251.png)
+" alt="Product 1">
             <p>Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor justo vel velit bibendum, in rutrum justo condimentum.</p>
-            <p>Price: $29.99</p>
+            <p>Price: $19.99</p>
             <button>Add to Cart</button>
           </li>
 
