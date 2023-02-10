@@ -30,7 +30,7 @@
       </section>
 
       <section id="contact">
-        <h1>Contact Us</h1>
+        <h2>Contact Us</h2>
         <form action="submit-form.php" method="post">
           <label for="name">Name:</label>
           <input type="text" id="name" name="name" required>
